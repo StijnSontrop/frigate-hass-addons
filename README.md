@@ -1,4 +1,4 @@
-# Frigate Add-ons: The official repository
+# Frigate Add-ons: The official repository - Forked
 
 ## Installing
 
@@ -11,6 +11,7 @@ Or, in your Home Assistant, navigate to _Configuration_ > _Add-ons, Backups & Su
 ## Add-ons provided by this repository
 - [Frigate](frigate/README.md)
 - [Frigate (Full Access)](frigate_fa/README.md)
+- [Frigate (Full Access RK)](frigate_fa_rk/README.md)
 - [Frigate (For old x86_64 CPUs)](frigate_oldcpu/README.md)
 - [Frigate Beta](frigate_beta/README.md)
 - [Frigate (Full Access) Beta](frigate_fa_beta/README.md)
